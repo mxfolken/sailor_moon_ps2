@@ -5,5 +5,7 @@ Release in ISO format:
 
 https://nova32-entertainment.itch.io/sailor-moon-revengex
 
+SDK to compile the source code:
+
 
 
